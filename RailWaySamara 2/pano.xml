@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama hideabout="1" id="node1">
+  <input tile1url="images/2016-04-06_o_1.jpg" prev0url="images/2016-04-06_o_preview_0.jpg" tile0url="images/2016-04-06_o_0.jpg" tile2url="images/2016-04-06_o_2.jpg" prev3url="images/2016-04-06_o_preview_3.jpg" prev5url="images/2016-04-06_o_preview_5.jpg" tilesize="1920" prev2url="images/2016-04-06_o_preview_2.jpg" tile5url="images/2016-04-06_o_5.jpg" tilescale="1.005208" levelingpitch="0" tile4url="images/2016-04-06_o_4.jpg" prev1url="images/2016-04-06_o_preview_1.jpg" prev4url="images/2016-04-06_o_preview_4.jpg" levelingroll="0" tile3url="images/2016-04-06_o_3.jpg">
+    <preview color="0x808080"/>
+  </input>
+  <view fovmode="1" pannorth="128">
+    <start fov="121.718" tilt="1.8" pan="32.53"/>
+    <min fov="28" tilt="-90" pan="0"/>
+    <max fov="120" tilt="90" pan="360"/>
+  </view>
+  <userdata tags="Сферы" longitude="" source="" datetime="2016:04:06 20:14:37" copyright="" title="" latitude="" author="" description="" info="" comment=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label height="20" enabled="1" wordwrap="1" textcolor="0x000000" border="1" borderradius="1" background="1" width="180" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+    <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition softedge="0" zoomoutpause="1" zoomout="0" enabled="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomin="0" zoomfov="20" type="crossdissolve"/>
+  <control lockedkeyboard="0" sensitivity="10" lockedmouse="0" invertcontrol="1" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" speedwheel="1" invertwheel="1" lockedwheel="0" dblclickfullscreen="1">
+    <menulink text="Russian.Photo-Graf" url="https://vk.com/Russian.Photo.Graf"/>
+  </control>
+</panorama>
