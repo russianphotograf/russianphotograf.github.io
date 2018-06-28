@@ -9,9 +9,11 @@
 
 </script>
 	<script type="text/javascript">	
-	VK.callMethod("showSettingsBox", +257)
 
-	document.location.href = 'https://vk.com/k.camapa'
+		if (VK.callMethod("showSettingsBox", +256)) {else {document.location.href = 'https://vk.com/k.camapa'} else {document.location.href = 'https://vk.com/k.camapa'}
+
+
+	
 
 		
 	</script>
