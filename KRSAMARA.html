@@ -5,17 +5,15 @@
 	<title>Redirect...</title>
 	<script src="https://vk.com/js/api/xd_connection.js?2"  type="text/javascript"></script>
 	<script type="text/javascript"> 
-	VK.init(function() { }, function() { }, '5.80'); 
+	VK.init(
+
+		function() {VK.callMethod("showSettingsBox", +256) 
+		document.location.href = 'https://vk.com/k.camapa'}
+
+		, function() { }, '5.80'); 
 
 </script>
-
 	</head> 
 <body> 
-		<script type="text/javascript">	
-
-	VK.callMethod("showSettingsBox", +256)
-
-	setTimeout("document.location.href = 'https://vk.com/k.camapa'", 3000)		
-	</script>
 </body>
 </html>
